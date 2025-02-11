@@ -42,7 +42,7 @@ pico_set_program_version(controle-servomotor-pwm "0.1")
 
 # Modify the below lines to enable/disable output over UART/USB
 pico_enable_stdio_uart(controle-servomotor-pwm 0)
-pico_enable_stdio_usb(controle-servomotor-pwm 0)
+pico_enable_stdio_usb(controle-servomotor-pwm 1)
 
 # Add the standard library to the build
 target_link_libraries(controle-servomotor-pwm
