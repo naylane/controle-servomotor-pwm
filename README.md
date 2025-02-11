@@ -2,7 +2,8 @@
 Tarefa da unidade 4, capítulo 7, promovida pelo EmbarcaTech.
 
 <div align="center">  
-  <img align="center" src= img/wokwi.png
+  <img align="center" width=50% src= img/wokwi.png
+    <br>
   <p><em>Simulação no Wokwi</em></p>
 </div>
 
@@ -37,7 +38,8 @@ Para testar com LED na Raspberry Pi Pico, altere o pino GPIO 22 por GPIO 12, con
 Ou, se preferir, [clique aqui para ver a simulação no Wokwi Web](https://wokwi.com/projects/422603356971975681).
 
 <div align="center">  
-  <img align="center" src= img/led.jpg
+  <img align="center" width=50% src= img/led.jpg
+    <br>
   <p><em>Simulação com LED na BitDogLab</em></p>
 </div>
 
