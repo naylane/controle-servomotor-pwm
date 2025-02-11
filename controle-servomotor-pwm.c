@@ -4,7 +4,6 @@
 
 #define SERVO_PIN 22 // Pino para controle do servomotor (Wowki)
 #define LED_PIN 12 // Pino para experimento de PWM na BitDogLab
-#define PWM_FREQ 50
 #define DIV_PWM 125
 #define PWM_WRAP 20000
 
